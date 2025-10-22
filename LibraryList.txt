@@ -1,7 +1,0 @@
-C:\iHOMISProject\Hospital.pbl;
-C:\iHOMISProject\homisfc.pbl;
-C:\iHOMISProject\library.pbl;
-C:\iHOMISProject\library1.pbl;
-C:\iHOMISProject\security.pbl;
-C:\iHOMISProject\template.pbl;
-C:\iHOMISProject\useraccount.pbl;
